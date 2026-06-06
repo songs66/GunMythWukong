@@ -395,6 +395,12 @@ docs/images/result.png         # 胜利 / 失败界面截图
 
 ---
 
+## 📥 Download
+
+Windows 64位可运行版本已发布在 [Releases](https://github.com/songs66/GunMythWukong/releases) 页面.
+
+---
+
 ## 📄 License
 
 本项目中由作者编写的原创代码使用 **MIT License** 开源。
