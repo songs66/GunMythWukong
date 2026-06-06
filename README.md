@@ -1,8 +1,13 @@
 # GunMythWukong｜枪神话·悟空
 
----
 
 ## 📌 项目简介
+
+![Unity](https://img.shields.io/badge/Unity%2FTuanjie-2022.3.62t9-black?logo=unity)
+![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Status](https://img.shields.io/badge/Status-Playable%20Prototype-orange)
+![License](https://img.shields.io/badge/License-MIT%20%28Code%20Only%29-green)
 
 **GunMythWukong｜枪神话·悟空** 是一个使用 **Unity 3D + C#** 开发的小型 FPS 枪战游戏项目。
 
@@ -215,6 +220,7 @@ GunMythWukong/
 ├── ProjectSettings/                 # Unity 项目设置
 ├── .gitignore
 ├── .vsconfig
+├── LICENSE
 └── README.md
 ```
 
@@ -380,8 +386,8 @@ docs/images/result.png         # 胜利 / 失败界面截图
 
 | 资源                                          | 用途        | 来源 / 授权                                             |
 | ------------------------------------------- | --------- | --------------------------------------------------- |
-| Char_Wukong                                 | 玩家悟空角色模型  | TODO：替换为原始资源链接                                      |
-| Low Poly Weapons VOL.1                      | 枪械 / 武器模型 | TODO：替换为原始资源链接                                      |
+| Char_Wukong                                 | 玩家悟空角色模型  | Unity Asset Store / Standard Unity Asset Store EULA |
+| Low Poly Weapons VOL.1                      | 枪械 / 武器模型 | Unity Asset Store / Standard Unity Asset Store EULA |
 | PBR RPG/FPS Game Assets Industrial Set v1.0 | 废弃工业场景资源  | Unity Asset Store / Standard Unity Asset Store EULA |
 | FREE Sci-Fi Trooper Man v3                  | 敌人科幻士兵模型  | Unity Asset Store / Standard Unity Asset Store EULA |
 
